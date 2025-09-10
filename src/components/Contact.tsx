@@ -48,19 +48,19 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "sudarshanganwani@example.com",
-      href: "mailto:sudarshanganwani@example.com"
+      value: "sidkushwah9@gmail.com",
+      href: "mailto:sidkushwah9@gmail.com"
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567"
+      value: "+91 9617477934",
+      href: "tel:+919617477934"
     },
     {
       icon: MapPin,
       label: "Location",
-      value: "Your City, Country",
+      value: "RAJPUR, Badwani, Madhya Pradesh",
       href: null
     }
   ];

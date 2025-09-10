@@ -114,7 +114,7 @@ const Hero = () => {
             className="text-primary-foreground hover:text-primary hover:bg-primary-foreground/10 h-12 w-12"
             asChild
           >
-            <a href="mailto:sudarshanganwani@example.com" aria-label="Send Email">
+            <a href="mailto:sidkushwah9@gmail.com" aria-label="Send Email">
               <Mail className="h-6 w-6" />
             </a>
           </Button>

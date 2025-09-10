@@ -50,14 +50,15 @@ npm / bun / yarn (choose one)
 ## Installation
 
 # Clone the repository
-git clone https://github.com/Sudarshanganwani9/My-Portfolio-main.git
+git clone https://github.com/Sudarshanganwani9/My-Portfolio
+
 cd My-Portfolio-main
 
 # Install dependencies
 npm install
-# or
+ or
 yarn install
-# or
+ or
 bun install
 
 Development
@@ -89,7 +90,7 @@ npm run preview
 
 
 
-📬 Contact
+## 📬 Contact
 
 Made with ❤️ by ### Sudarshan Ganwani
 

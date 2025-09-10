@@ -22,6 +22,8 @@ export default {
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
+          glow: "hsl(var(--primary-glow))",
+          dark: "hsl(var(--primary-dark))",
         },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
@@ -57,6 +59,12 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Portfolio specific colors
+        "hero-bg": "hsl(var(--hero-bg))",
+        "hero-secondary": "hsl(var(--hero-secondary))",
+        "tech-accent": "hsl(var(--tech-accent))",
+        "project-highlight": "hsl(var(--project-highlight))",
+        "contact-accent": "hsl(var(--contact-accent))",
       },
       borderRadius: {
         lg: "var(--radius)",
@@ -84,6 +92,18 @@ export default {
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
+        "float": "float 6s ease-in-out infinite",
+        "glow": "glow 2s ease-in-out infinite alternate",
+      },
+      boxShadow: {
+        "card": "var(--shadow-card)",
+        "hero": "var(--shadow-hero)", 
+        "glow": "var(--shadow-glow)",
+      },
+      backgroundImage: {
+        "gradient-hero": "var(--gradient-hero)",
+        "gradient-card": "var(--gradient-card)",
+        "gradient-tech": "var(--gradient-tech)",
       },
     },
   },

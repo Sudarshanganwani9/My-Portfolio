@@ -92,5 +92,5 @@ npm run preview
 
 ## 📬 Contact
 
-Made with ❤️ by ### Sudarshan Ganwani
+Made with ❤️ by ## Sudarshan Ganwani
 

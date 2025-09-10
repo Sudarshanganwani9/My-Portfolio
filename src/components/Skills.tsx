@@ -20,6 +20,8 @@ const Skills = () => {
       title: "Backend Technologies",
       icon: "⚙️",
       skills: [
+        { name: "Java", level: 85 },
+        { name: "Advanced Java", level: 80 },
         { name: "Node.js", level: 85 },
         { name: "Express.js", level: 80 },
         { name: "RESTful APIs", level: 85 },
@@ -52,7 +54,7 @@ const Skills = () => {
   ];
 
   const technologies = [
-    "React", "TypeScript", "JavaScript", "Node.js", "Express.js", 
+    "React", "TypeScript", "JavaScript", "Java", "Advanced Java", "Node.js", "Express.js", 
     "PostgreSQL", "Supabase", "Tailwind CSS", "HTML5", "CSS3",
     "Git", "RESTful APIs", "Responsive Design", "Vite", "ESLint"
   ];
